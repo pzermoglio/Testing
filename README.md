@@ -11,4 +11,4 @@ Go to [THIS IS NEW](https://github.com/pzermoglio/Testing/blob/master/This%20is%
 
 
 And Check This Out
-![](https://github.com/pzermoglio/Testing/blob/master/AppendQuery.png)
+<img src="AppendQuery.png"/>
