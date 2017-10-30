@@ -3,5 +3,5 @@
 
 *Whether you like it or not!*
 
-Check this out [VertNet](http://vertnet.org)
+Check this out [VertNet](http://vertnet.org/)
 
