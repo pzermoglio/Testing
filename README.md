@@ -10,5 +10,5 @@ Go to [THIS IS NEW](https://github.com/pzermoglio/Testing/blob/master/This%20is%
 
 
 
-And Check This Out
+And Check This Out NOW
 <img src="AppendQuery.png"/>
